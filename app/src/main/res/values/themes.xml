@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base theme; the real UI is fully Material 3 in Compose. -->
+    <style name="Theme.RootDBInspector" parent="android:Theme.Material.NoActionBar" />
+</resources>
